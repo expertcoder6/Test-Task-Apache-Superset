@@ -13,8 +13,8 @@ Follow these steps to clone and run this Vite project locally.
 
 ### 📥 Clone the Repository
 ```sh
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/expertcoder6/Test-Task-Apache-Superset.git
+cd Test-Task-Apache-Superset
 ```
 
 ### 📦 Install Dependencies
